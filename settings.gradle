@@ -1,0 +1,2 @@
+include ':app', ':ui-computers', ':ui-mousepad', ':mma-base-ui', ':mma-base', ':mma-usecase'
+rootProject.name='Droid Mousepad'
